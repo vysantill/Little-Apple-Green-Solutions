@@ -1,0 +1,26 @@
+body {
+    background-color: #f1f1ff;/* purple background color */
+    
+  }
+  
+.custom-font {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 30px; /* Optional: set the font size */
+font-weight: bold; /* Optional: set font weight */
+color: #390067
+}
+
+
+.text-box {
+border: 1px solid #ccc;
+padding: 10px;
+margin: 10px 0;
+border-radius: 8px;
+background-color: #bdc7ca;
+box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+font-family: 'Times New Roman', Times, serif; /* Change font for the boxed text */
+}
+
+.underline { /* not used*/
+text-decoration: underline;
+}

@@ -1,0 +1,34 @@
+[
+    {
+      "id": "1",
+      "name": "Howie's Recycling & Trash Service of Manhattan KS",
+      "address": " 625 S 10th St, Manhattan, KS",
+      "materials": ["glass", "cardboard", "clear plastic", "office paper", "newspaper", "e-waste", "household batteries", "steel cans"],
+      "phone": "(785)-776-8352",
+      "website": "howies.com",
+      "latitude": 39.173671,
+      "longitude": -96.571232
+    },
+    {
+      "id": "2",
+      "name": "Ksu Recycling Center",
+      "address": "51400 Claflin Rd, Manhattan, KS",
+      "materials": ["aluminum cans", "mixed paper", "cardboard", "glass bottles", "ink cardtridges", "wooden pallets", "e-waste", "batteries"],
+      "phone": "(785)-532-7430",
+      "website":"k-state.edu/recycling/",
+      "latitude": 39.196872,
+      "longitude": -96.578369
+    },
+    {
+        "id": "3",
+        "name": "Staples",
+        "address": "632 Tuttle Creek Blvd., Manhattan, KS",
+        "materials": ["backpacks & luch bags", "binders & zipper binders ", "Crayons & colored pencils", "Glue sticks & bottles (empty)", "ink cardtridges", "Rulers & drafting tools", "e-waste", "batteries", "Monitors (for a fee, $19.99 each)", "Shredding (for a fee, cost per pound)"],
+        "phone": "(785) 770-9200",
+        "website":"stores.staples.com",
+        "latitude": 39.186614,
+        "longitude": -96.556061 
+      }
+
+]
+  
